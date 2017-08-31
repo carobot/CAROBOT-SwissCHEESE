@@ -1,0 +1,106 @@
+#######################################
+# Syntax Coloring Map For swRTC
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SwissCHEESE	KEYWORD1
+SCLed	KEYWORD1
+SCButton	KEYWORD1
+SCTouchSensor	KEYWORD1
+SCTiltSensor	KEYWORD1
+SCPotentiometer	KEYWORD1
+SCThermistor	KEYWORD1
+SCLightSensor	KEYWORD1
+SCMosFet	KEYWORD1
+SCRelay	KEYWORD1
+SCJoystick	KEYWORD1
+SCHallSensor	KEYWORD1
+SCGyro	KEYWORD1
+SCAccelerometer	KEYWORD1
+SCAnalog	KEYWORD1
+SCAnalog2	KEYWORD1
+SCDigital	KEYWORD1
+SCOutput	KEYWORD1
+SCMotor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+state	KEYWORD2
+write	KEYWORD2
+read	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+blink	KEYWORD2
+readCelsius	KEYWORD2
+readFahrenheit	KEYWORD2
+readSwitch	KEYWORD2
+pressed	KEYWORD2
+held	KEYWORD2
+released	KEYWORD2
+brightness	KEYWORD2
+fade	KEYWORD2
+readX	KEYWORD2
+readY	KEYWORD2
+readXAxisRate	KEYWORD2
+readYAxisRate	KEYWORD2
+calibrate	KEYWORD2
+readStep	KEYWORD2
+inclination	KEYWORD2
+polarity	KEYWORD2
+increasing	KEYWORD2
+decreasing	KEYWORD2
+
+speed KEYWORD2
+forward KEYWORD2
+backward KEYWORD2
+stop KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+I0	LITERAL1
+I1	LITERAL1
+I2	LITERAL1
+I3	LITERAL1
+I4	LITERAL1
+I5	LITERAL1
+I6	LITERAL1
+I7	LITERAL1
+I8	LITERAL1
+I9	LITERAL1
+
+O0	LITERAL1
+O1	LITERAL1
+O2	LITERAL1
+O3	LITERAL1
+O4	LITERAL1
+O5	LITERAL1
+O6	LITERAL1
+O7	LITERAL1
+
+D13	LITERAL1
+D12	LITERAL1
+D8	LITERAL1
+D7	LITERAL1
+D4	LITERAL1
+D2	LITERAL1
+
+M1	LITERAL1
+M2	LITERAL1
+
+PWMA LITERAL1
+AIN1 LITERAL1
+AIN2 LITERAL1
+PWMB LITERAL1
+BIN1 LITERAL1
+BIN2 LITERAL1
+
+SC_MAX	LITERAL1
+SC_X1	LITERAL1
+SC_X4	LITERAL1
+NORTH	LITERAL1
+SOUTH	LITERAL1
