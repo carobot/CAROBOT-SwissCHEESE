@@ -436,7 +436,7 @@ int SCAccelerometer::inclination()
 		int inclination = atan2(xVal, yVal)*180/M_PI;
 		return (int) inclination;
 	} else {
-		return NULL;
+		return 0;
 	}
 }
 
